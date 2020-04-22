@@ -1,3 +1,15 @@
 div {
     background-color: lightgray;
 }
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: green;
+}
+
+footer {
+    background-color: powderblue;
+}
